@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>pdf-file.png</file>
+        <file>pdf-file.ico</file>
+        <file>extend.png</file>
+    </qresource>
+</RCC>
