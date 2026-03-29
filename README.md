@@ -1,7 +1,7 @@
 # Better-Pdf-Reader
 Just read your Pdf and nothing else.
 MICA EFFECT SUPPORT
-Dark mod does not work at this moment
+Dark mod SUPPORT
 
 
 <img width="1297" height="985" alt="Screenshot 2026-03-29 112555" src="https://github.com/user-attachments/assets/4c3eab57-ca0d-4cf5-86f0-0819ea14aeea" />
